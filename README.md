@@ -1,5 +1,5 @@
 
-- 👋 Hi, I’m @EmonHossain12![Uploading 
+- 👋 Hi, I’m @EmonHossain
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Python,JavaScript
 - 📫 How to reach me: motalebhossainemon@gmail.com
