@@ -1,11 +1,11 @@
-
+<p align="left"> <img src="file:///D:/Downloads/3d-rendering-kid-playing-digital-game.jpg" /> </p>
 - 👋 Hi, I’m @EmonHossain
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Python,JavaScript
 - 📫 How to reach me: motalebhossainemon@gmail.com
 - ⚡ Fun fact: Listening music.
 
- <h3 align="center">A passionate frontend developer from India</h3>
+ <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emonhossain12&label=Profile%20views&color=0e75b6&style=flat" alt="emonhossain12" /> </p>
 
