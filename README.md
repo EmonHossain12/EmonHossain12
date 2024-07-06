@@ -1,4 +1,4 @@
-<p align="left"> <img src="file:///D:/Downloads/3d-rendering-kid-playing-digital-game.jpg" /> </p>
+
 - 👋 Hi, I’m @EmonHossain
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Python,JavaScript
